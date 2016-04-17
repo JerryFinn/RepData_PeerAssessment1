@@ -1,3 +1,10 @@
+## Difference from assignment 
+
+Please note that the assigment says that figures are in a ./figures directory by default.  
+This is not true on my system. In my system the figures are in this directory by default:  
+  
+/PA1_template_files/figure-html
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
